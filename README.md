@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenidos a mi perfil de Git Hub<br><br>Soy Desarollador backend con manejo de  tecnologias como Spring Boot y NodeJS, bases relacionales y no relacionales. Cuento con algunos conocimientos de Azure,Docker con todo el tema de microservicios, me gusta mucho aprender y asi mismo compartir mis conocimientos.<br><br>Los dejo con algunos proyectos realizados en tecnologias backend y en un futuro subire proyectos usando tecnologias FrontEnd realizadasen React.js
+Bienvenidos a mi perfil de Git Hub<br><br>Soy Desarollador backend con manejo de  tecnologias como Spring Boot y NodeJS, bases relacionales y no relacionales. Cuento con algunos conocimientos de Azure, me gusta mucho aprender y asi mismo compartir mis conocimientos.<br><br>Los dejo con algunos proyectos realizados en tecnologias backend y en un futuro subire proyectos usando tecnologias FrontEnd realizadas en React.js
 
 
 ## 🌐 Socials:
