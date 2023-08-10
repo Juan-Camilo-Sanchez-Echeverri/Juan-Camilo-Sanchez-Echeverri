@@ -7,9 +7,39 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
 
 ¡Gracias por visitar mi perfil!
 
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight%22&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
+</a> 
+</div>
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-camilo-sanchez-echeverri/) 
+[![Linkedin: Juan Camilo Sanchez](https://img.shields.io/badge/-Juan--Camilo--Sanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-camilo-sanchez-echeverri/)](https://www.linkedin.com/in/juan-camilo-sanchez-echeverri/)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=for-the-badge&logo=Docker&logoColor=blue)
+![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Courses 📖
+    
+<div align="center">    
+<a href="https://app.aluracursos.com/program/certificate/35f8c83b-21db-4103-b0f4-dde0b661f565" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png">  
+</div>
