@@ -7,6 +7,11 @@ Soy un Desarrollador Backend con experiencia en el manejo de tecnologías como N
 A continuación, les presento algunos de los proyectos que he realizado utilizando tecnologías backend. Estos proyectos demuestran mis habilidades y mi entusiasmo por seguir aprendiendo constantemente.
 
 ¡Gracias por visitar mi perfil!
+
+<br/>
+<br/>
+
+## 📊 Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&hide_progress=true&hide=java&card_width=30" alt="Top langs" />
