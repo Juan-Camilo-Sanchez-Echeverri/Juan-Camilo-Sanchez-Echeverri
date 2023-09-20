@@ -7,7 +7,9 @@ Soy un Desarrollador Backend con experiencia en el manejo de tecnologías como N
 A continuación, les presento algunos de los proyectos que he realizado utilizando tecnologías backend. Estos proyectos demuestran mis habilidades y mi entusiasmo por seguir aprendiendo constantemente.
 
 ¡Gracias por visitar mi perfil!
+
 <br/>
+
 ## 📊 Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -23,7 +25,7 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
 ## 🌐 Socials:
 [![Linkedin: Juan Camilo Sanchez](https://img.shields.io/badge/-Juan--Camilo--Sanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-camilo-sanchez-echeverri/)](https://www.linkedin.com/in/juan-camilo-sanchez-echeverri/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
