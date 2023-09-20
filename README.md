@@ -8,8 +8,8 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
 ¡Gracias por visitar mi perfil!
 
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
-<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&hide_progress=true&hide=java" alt="Top langs" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&hide_progress=true&hide=java" alt="Top langs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
