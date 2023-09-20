@@ -11,7 +11,7 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&hide_progress=true&hide=java" alt="Top langs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=1&theme=tokyonight&card_width=300" alt="My stats" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=1&theme=tokyonight&card_width=100" alt="My stats" />
 </a> 
 
 
