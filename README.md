@@ -12,12 +12,8 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
 ## 📊 Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Sanchez-Echeverri&hide_progress=true&hide=java&card_width=30" alt="Top langs" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
-  </a> 
+    <img height=180 align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=false&theme=tokyonight" alt="My stats" />
+    <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Camilo-Sanchez-Echeverri&theme=tokyonight&hide_border=false" alt="My stats" />
 </div>
 
 ## 🌐 Socials:
