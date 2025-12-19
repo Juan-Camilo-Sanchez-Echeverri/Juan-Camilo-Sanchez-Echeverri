@@ -13,7 +13,6 @@ A continuación, les presento algunos de los proyectos que he realizado utilizan
 
 <div align="center">
     <img height=180 align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=Juan-Camilo-Sanchez-Echeverri&show_icons=true&hide_border=false&theme=tokyonight" alt="My stats" />
-    <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Camilo-Sanchez-Echeverri&theme=tokyonight&hide_border=false" alt="My stats" />
 </div>
 
 ## 🌐 Socials:
